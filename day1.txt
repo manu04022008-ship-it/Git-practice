@@ -1,0 +1,5 @@
+Day 1 – GitHub Practice
+
+- Created repository
+- Edited README.md
+- Added first text file
